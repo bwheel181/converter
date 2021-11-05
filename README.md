@@ -6,6 +6,7 @@
 ```shell
 $ git clone https://github.com/bwheel181/converter.git
 $ cd <clone dir>
+$ cd web
 $ npm install
 $ yarn start
 ```
